@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo A. Lobos"
+title                    : "Sina Bonakdar"
 title_separator          : "-"
 name                     : &name "Rodrigo A. Lobos"
 description              : &description "personal description"
-url                      : https://ralobos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Sina2285.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ralobos.github.io"
+repository               : "Sina2285.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
-  avatar           : "pic_rl_scaled579.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  name             : "Sina Bonakdar"
+  avatar           : "IMAGE 2024-01-26 10/39/18.jpg"
+  bio              : "Ph.D. Student at the University of Michigan <b>bonakdar@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wTfHu0QAAAAJ"
   email            : #"rlobos@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
